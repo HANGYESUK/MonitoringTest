@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e16bbe00-7334-4f4b-b6a9-a05a63dfd4e7" name="Changes" comment="Feature : Create app">
+      <change beforePath="$PROJECT_DIR$/monitoring/.eslintrc.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/app/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/app/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/app/layout.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/app/page.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/next.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/postcss.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/public/next.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/public/vercel.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/tailwind.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/monitoring/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2QGptXi9y8Imjv1CgKRJtNiaa19" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "ts.external.directory.path": "/Users/sil/Desktop/temp/MonitoringTest/monitoring/node_modules/typescript/lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e16bbe00-7334-4f4b-b6a9-a05a63dfd4e7" name="Changes" comment="" />
+      <created>1684989988133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684989988133</updated>
+      <workItem from="1684989989901" duration="2099000" />
+      <workItem from="1684992214126" duration="4447000" />
+    </task>
+    <task id="LOCAL-00001" summary="Feature : Create app">
+      <created>1684996206615</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1684996206615</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Feature : Create app" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature : Create app" />
+  </component>
+</project>
